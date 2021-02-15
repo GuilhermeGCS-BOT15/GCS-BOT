@@ -21,31 +21,31 @@ Siga os passos abaixo!
 ```bash
 > termux-setup-storage
 
-pkg install git
+> pkg install git
 
-pkg install wget
+> pkg install wget
 
-pkg install ffmpeg
+> pkg install ffmpeg
 
-pkg install nodejs-lts
+> pkg install nodejs-lts
 
-apt update
+> apt update
 
-apt upgrade
+> apt upgrade
 
-git clone https://github.com/GuilhermeGCS-BOT15/GCS-BOT/tree/main
+> git clone https://github.com/GuilhermeGCS-BOT15/GCS-BOT/tree/main
 
-cd GuilhermeGCS-BOT15
+> cd GuilhermeGCS-BOT15
 
-npm i -g cwebp
+> npm i -g cwebp
 
-npm i -g ytdl
+> npm i -g ytdl
 
-npm i
+> npm i
 
-npm i got
+> npm i got
 
-node index.js
+> node index.js
 
 ## Uso
 

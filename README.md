@@ -19,15 +19,16 @@
 Siga os passos abaixo!
 
 ```bash
-> pkg install git
-
-> git clone https://github.com/GuilhermeGCS-BOT15/GCS-BOT
-
+> termux-setup-storage
+(depois disso toque na permissão)
+> apt install git
+> pkg install ffmpeg
+> apt install wget
+> pkg install nodejs
+> pkg install npm
+> git clone https://github.com/GuilhermeGCS-BOT15/GCS-BOT.git
 > cd GuilhermeGCS-BOT15
-
-> chmod +x badut.sh
-
-> sh badut.sh
+> bash install.sh
 ```
 
 ## Uso

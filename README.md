@@ -33,7 +33,7 @@ apt update
 
 apt upgrade
 
-git clone https://github.com/MhankBarBar/termux-wabot
+git clone https://github.com/GuilhermeGCS-BOT15/GCS-BOT/tree/main
 
 cd GuilhermeGCS-BOT15
 
